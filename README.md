@@ -18,6 +18,19 @@ C++で制作したコンソール版テトリスです。
 - スコア表示
 - Next Piece表示
 
+## 操作方法
+
+| Z | 左回転 |
+| X または Up arrow | 右回転 |
+| A | 180°回転 |
+| Left arrow | 左移動 |
+| Right arrow | 右移動 |
+| C または Shift | Hold |
+| Space | Hard Drop |
+| Down arrow | Soft Drop |
+| R | Restart |
+| Q | Quit |
+
 ## 開発環境
 
 - C++17

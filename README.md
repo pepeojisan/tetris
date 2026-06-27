@@ -44,7 +44,7 @@ C++で制作したコンソール版テトリスです。
 ### コンパイル
 
 ```bash
-g++ tetris.cpp -o tetris
+g++ tetris.cpp -o tetris.exe
 ```
 
 ### 実行

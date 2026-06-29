@@ -1,6 +1,6 @@
 #pragma once
 
-const string COLOR[8] = 
+const string COLOR[9] = 
 {
     "  ",
     "\033[38;2;0;255;255m██\033[0m",
@@ -10,6 +10,7 @@ const string COLOR[8] =
     "\033[38;2;0;0;255m██\033[0m",
     "\033[38;2;0;255;0m██\033[0m",
     "\033[38;2;255;0;0m██\033[0m",
+    "\033[38;2;255;255;255m░░\033[0m"
 };
 
 const int SHAPE[8][4][4][4] = //variation; rotation (to right); shape

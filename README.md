@@ -14,6 +14,7 @@ C++で制作したコンソール版テトリスです。
 - Hard Drop
 - Soft Drop
 - Lock Delay
+- Ghost Block
 - ライン消去
 - スコア表示
 - Next Piece表示

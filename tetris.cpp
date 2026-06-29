@@ -48,8 +48,9 @@ Piece holdedBlock = {};
 bool holdExist = false;
 bool holdUsed = false;
 
-#include "draw.hpp"
 #include "canMove.hpp"
+#include "getGhost.hpp"
+#include "draw.hpp"
 #include "mkDisplay.hpp"
 #include "eraceLine.hpp"
 #include "kbControl.hpp"

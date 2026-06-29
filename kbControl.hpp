@@ -1,6 +1,6 @@
 #pragma once
 
-void kbControl(Piece &nowBlock, Piece &nextBlock, Piece &holdedBlock, bool holdUsed, bool holdExit , char c) {
+void kbControl(Piece &nowBlock, Piece &nextBlock, Piece &holdedBlock, bool &holdUsed, bool &holdExit , char c) {
 
     //rotate && draw
 
